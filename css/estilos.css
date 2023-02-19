@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* MENU */
+.navbar{
+    background-color: #062844 !important;
+}
+#menu a {
+    color: #D7D8DE !important;
+    font-size: 18px;
+}
+
+/* main */
+main{
+background-color: #D7D8DE;
+
+}
+
+/* footer */
+
+footer{
+background-color:#062844 !important;
+color:#D7D8DE;
+}
+ 
