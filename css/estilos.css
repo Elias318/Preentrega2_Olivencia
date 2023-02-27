@@ -27,7 +27,7 @@ background: linear-gradient(151deg, rgba(215,216,222,1) 31%, rgba(6,40,68,0.9248
 .carousel-inner{
     width:100%;
     height: 100%;
-    
+
 }
 /* Formulario */
 .form-control{
@@ -53,3 +53,115 @@ color:#D7D8DE;
 .active{
   color:orange !important;
 }
+
+
+/* CSS DE TRABAJO ANTERIOR */
+
+
+
+
+
+
+
+    /* header{
+            background-color:#062844;
+    }
+    
+    .titulos{
+        font-size: 22px;
+    }
+   
+.div_whatsapp{
+    position: fixed;
+    top: 60rem;
+    left:140rem;
+    width: 7rem;
+}
+
+.Whatsapp_movible{
+    width: 100%;
+    height: 100%; 
+}
+
+li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+nav{
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+}
+
+.Titulo__ul{
+    padding: 1rem 2rem;
+    display: inline-block;
+}
+
+.Titulo__ul__a--position-relative{
+    text-decoration: none;
+    margin: 0.1rem;
+    color: #D7D8DE;
+}
+
+.Titulo__ul{
+    padding: 1rem 2rem;
+    display: inline-block;
+    
+}
+
+.Logo{
+    width: 25rem;
+    
+} 
+
+.imagen_frente{
+    width: 152rem;
+    height: 30rem;
+    display: inline-block;
+    position: relative;
+}
+
+.reserve_turno__btn{
+    position:absolute;
+    top: 37rem;
+    left: 64rem;
+}
+
+
+
+/* SECCION DE SERVICIOS  */
+.servicios{
+    background-color: #CE610B;
+    padding: 10px;
+    color: #D7D8DE;
+}
+.servicios__article{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: stretch;
+
+
+}
+
+.servicios__article__h3{
+    font-size: 15px;
+}
+
+/* SECCION DE CONOCE MAS  */
+
+.preguntas{
+background-color: #D7D8DE;
+}
+.conoce_mas__imagen{
+    width: 152rem;
+    height: 30rem;
+}
+.conoce_mas__btn{
+    position: absolute;
+    top: 80rem;
+    left: 60rem;
+} 
